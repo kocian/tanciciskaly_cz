@@ -1,0 +1,125 @@
+body 
+{
+  	background: #878787;
+  	margin: 0;
+  	padding-bottom: 50px
+}
+#Orko 
+{
+   	width: 850px;
+   	height: 60px;
+   	margin: 100px auto;
+   	margin-bottom: 0;
+   	background: url('Images/SkalyLayout/SkalyOrko.jpg') no-repeat top left;
+}
+#Container 
+{
+   	margin: 50px auto;
+   	margin-top: 20px;
+   	margin-bottom: 50px;
+   	width: 850px;
+   	background: url('Images/ContainerBack.jpg') repeat-y top right;
+}
+#Menu 
+{
+   	width: 39px;
+   	float: right;
+   	margin-left: -1px;
+   	_margin-left: -3px;
+}
+#Top 
+{
+   	background: url('Images/SkalyLayout/SkalyMainTop.jpg') top left;
+   	width: 810px;
+   	height: 20px;
+   	_margin-right: -3px;
+}
+#Content 
+{
+   	background: url('Images/SkalyLayout/SkalyMainBack.jpg') repeat-y;
+   	width: 810px;
+   	min-height: 1000px;
+   	_height: 1000px;
+   	_margin-right: -3px;
+}
+#Bottom
+{
+	background: url('Images/SkalyLayout/SkalyMainBottom.jpg') no-repeat top left;
+	width: 850px;
+	height: 20px;
+	clear: right;
+	margin-top: 0;
+}
+#Menu img 
+{
+   	border: 0;
+   	margin: 0;
+   	margin-left: -1px;
+}
+#Content h1
+{
+	font-family: Garamond;
+	color: #313f32;
+	font-size: 20pt;
+	text-align: right;
+	margin: 10px;
+	margin-left: 25px;
+	padding-top: 50px;
+	margin-top: 0;
+	background: url('Images/SkalyLayout/GreenLine.jpg') no-repeat bottom right;
+	width: 370px;
+	height: 40px;
+}
+#Content p
+{
+	margin: 15px 30px 0 40px;
+	padding-bottom: 10px;
+	font-family: Verdana;
+	font-size: 9pt;
+	color: #323232;
+	text-align: justify;
+	line-height: 180%;
+}
+.KnihaPrebal
+{
+	float: right;
+	border: 0;
+	margin-left: 20px;
+	margin-right: 10px;
+	border: 1px solid #313f32;
+}
+#Content blockquote
+{
+	font-family: Verdana;
+	font-style: italic;
+	font-size: 9pt;
+	width: 340px;
+	margin-top: 15px;
+	margin-left: 60px;
+	text-align: justify;
+	line-height: 180%;
+}
+p.Comment
+{
+	font-size: 8pt;
+}
+#BodySestaCesta a 
+{
+	color: #313f32;
+	font-weight: bold;
+}
+#Counter
+{
+	text-align: center;
+	padding-top: 10px;
+	font-family: Verdana;
+	font-size: 10pt;
+	color: #323232;
+	background-color: #878787;
+}
+#Counter a
+{
+	text-decoration: none;
+	font-weight: bold;
+	color: #323232;
+}
